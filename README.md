@@ -13,7 +13,7 @@ A fun, gamified design with a wheel or button for selecting songs.
 I would also like to make it so users can randomize entire playlists based on these filters they decide on, and integrate it so it adds the
 playlist directly to the users spotify account.
 
-2.Concert & Events Playlist (Spotify / TicketMaster API)
+2. Concert & Events Playlist (Spotify / TicketMaster API)
 Description: Build a tool that generates a playlist based on upcoming concerts or events near the user’s location. The app could pull in 
 artists from the events and create a playlist so the user can familiarize themselves with the music before attending.
 Features:
@@ -32,5 +32,7 @@ Maybe the goal is you keep going until you get three guesses wrong and then your
 and the idea is youd you get like 100 points for each guess you get right, and keep going all the way until youre out and then that score will be your highscore. 
 maybe users can log in and save their score.
 
+Doc showing my plans for this project. -
+
 https://docs.google.com/document/d/1JFLEqfV1w3cZxRoDcKXiJHF0v6FEvP7KU8yWfV55Yl0/edit?usp=sharing
-Doc showing my plans for this project. 
+
