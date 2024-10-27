@@ -30,4 +30,7 @@ Play audio clips of game soundtracks (or any songs, maybe users can choose what 
 Include a scoring system and time-based challenges for more excitement.
 Maybe the goal is you keep going until you get three guesses wrong and then youre out
 and the idea is youd you get like 100 points for each guess you get right, and keep going all the way until youre out and then that score will be your highscore. 
-maybe users can log in and save their score. 
+maybe users can log in and save their score.
+
+https://docs.google.com/document/d/1JFLEqfV1w3cZxRoDcKXiJHF0v6FEvP7KU8yWfV55Yl0/edit?usp=sharing
+Doc showing my plans for this project. 
