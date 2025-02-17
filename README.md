@@ -8,10 +8,6 @@ See how high you can rank on the leaderboard!
 
 More features coming soon, app is a complete WIP.
 
-
-Notes - 
-save all of users correct guesses up until their loss and then list them once they lose so they can see what songs they got right before they died. 
-
 https://docs.google.com/document/d/1JFLEqfV1w3cZxRoDcKXiJHF0v6FEvP7KU8yWfV55Yl0/edit?usp=sharing
 
 https://developer.spotify.com/documentation/web-api
